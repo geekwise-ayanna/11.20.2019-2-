@@ -1,0 +1,5 @@
+## Python pipenv
+.env
+.venv
+env/
+venv/
