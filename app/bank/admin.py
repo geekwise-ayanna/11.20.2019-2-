@@ -9,3 +9,4 @@ from bank.product.models import Product
 admin.site.register(Account)
 admin.site.register(Product)
 admin.site.register(Customer)
+admin.site.site_header = 'Welcome to Geekwise Bank'
